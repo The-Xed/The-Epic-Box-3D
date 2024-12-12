@@ -12,7 +12,7 @@ The Epic Box is a transcended form of [The Box](https://verse-and-dimensions.fan
 
 This program is a web application that captures a 3D version of The Epic Box. It can be configured through URL Parameters:
 1. resolution: Size of the image/animation. Defaults at 2048.
-2. manual: `Sets whether the animation frames have to be transitioned manually(Press Space for next frame), or normally plays.` Tell to "The Cameraman" to capture still images and time, or take a video of The Epic Box. Helpful if you want to record most of it's activities in case your device can't record it fast enough.
+2. manual: `Sets whether the animation frames have to be transitioned manually(Press Space for next frame), or normally plays.` Tell to "The Cameraman" to capture still images and time, or take a video of The Epic Box. Helpful if you want to record most of it's activities in case your device can't record it fast enough. Defaults at false.
 
 More References:<br>
 [Ordinal Numbers](https://en.wikipedia.org/wiki/Ordinal_number)<br>
